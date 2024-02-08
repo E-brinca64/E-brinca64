@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=600&color=17F711&center=true&vCenter=true&random=false&width=800&lines=Hello+World+;Welcome+to+my+GitHub+;I'm+Enzo+Brincalepe%2C+pleased+to+meet+you)](https://git.io/typing-svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=001d3d&height=120&section=footer)
+
+
+
 <!--
 **E-brinca64/E-brinca64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &customColorList=0,2,2,5,30
