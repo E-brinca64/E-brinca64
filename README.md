@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=Gradient&customColorList=30&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=Gradient&customColorList=30&height=150&text=Ebrinca64&fontColor=ffc300&animation=fadeIn&section=header)
 <!--
 **E-brinca64/E-brinca64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &customColorList=0,2,2,5,30
 Here are some ideas to get you started:
+
+animation=fadeIn
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
