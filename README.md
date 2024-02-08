@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Enzo%20Brincalepe&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header)
 <!--
 **E-brinca64/E-brinca64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
