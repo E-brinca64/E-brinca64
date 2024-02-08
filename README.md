@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=Gradient&customColorList=30&height=150&text=Ebrinca64&fontColor=ffc300&animation=fadeIn&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=001d3d&height=150&text=Ebrinca64&fontColor=ffc300&animation=fadeIn&section=header)
 <!--
 **E-brinca64/E-brinca64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &customColorList=0,2,2,5,30
