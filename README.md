@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=001d3d&height=150&text=Ebrinca64&fontColor=ffc300&animation=fadeIn&section=header)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=150&text=Ebrinca64&fontColor=ff8300&animation=fadeIn&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=600&color=17F711&center=true&vCenter=true&random=false&width=800&lines=Hello+World+;Welcome+to+my+GitHub+;I'm+Enzo+Brincalepe%2C+pleased+to+meet+you)](https://git.io/typing-svg)
+<img src="https://github.com/E-brinca64/E-brinca64/assets/98828875/e16562d1-d34c-47d1-9d95-8203dee5c9f4" width="25%"> 
+ 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=001d3d&height=120&section=footer)
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=footer"/>
+
+
 
 
 <!--
@@ -20,6 +24,7 @@ animation=fadeIn
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=600&color=17F711&center=true&vCenter=true&random=false&width=800&lines=Hello+World+;Welcome+to+my+GitHub+;I'm+Enzo+Brincalepe%2C+pleased+to+meet+you)](https://git.io/typing-svg)
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
