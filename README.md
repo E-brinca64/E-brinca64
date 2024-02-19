@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=150&text=Ebrinca64&fontColor=ff8300&animation=fadeIn&section=header"/>
 
-<img src="https://github.com/E-brinca64/E-brinca64/assets/98828875/e16562d1-d34c-47d1-9d95-8203dee5c9f4" width="25%"> 
- 
+<div align="center">
+  <img src="https://github.com/E-brinca64/E-brinca64/assets/98828875/470ac673-ec2e-45ce-803d-88406567d4db" width="250px">
+</div>
 
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=footer"/>
 
 
 
