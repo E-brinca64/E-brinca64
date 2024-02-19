@@ -5,7 +5,6 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=001d3d&height=120&section=footer)
 
 
-
 <!--
 **E-brinca64/E-brinca64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &customColorList=0,2,2,5,30
@@ -21,4 +20,9 @@ animation=fadeIn
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 -->
