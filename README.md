@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=150&text=Ebrinca64&fontColor=ff8300&animation=fadeIn&section=header"/>
 
-  <img src="https://github.com/E-brinca64/E-brinca64/assets/98828875/470ac673-ec2e-45ce-803d-88406567d4db" width="250px">
-
-
+<div align="center">
+<img width="902" alt="ReadMeMe" src="https://github.com/E-brinca64/E-brinca64/assets/98828875/66db249d-4264-4385-8d98-d56fbf97ba51">
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=footer"/>
 
 
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=150&text=Ebrinca64&fontColor=c77dff&animation=fadeIn&section=header)
 animation=fadeIn
 
-
+<div align="center">
+  <img src="https://github.com/E-brinca64/E-brinca64/assets/98828875/470ac673-ec2e-45ce-803d-88406567d4db" width="250px">
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
