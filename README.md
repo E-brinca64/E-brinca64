@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=150&text=Ebrinca64&fontColor=ff8300&animation=fadeIn&section=header"/>
 
 <div align="center">
-<img width="902" alt="ReadMeMe" src="https://github.com/E-brinca64/E-brinca64/assets/98828875/66db249d-4264-4385-8d98-d56fbf97ba51">
+<img width="902" alt="ReadMeMe" src="https://github.com/E-brinca64/E-brinca64/assets/98828875/a0b157bf-e112-465c-afe4-f79c48f2c3d2">
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=footer"/>
 
