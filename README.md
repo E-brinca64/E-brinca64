@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">• Full Stack Developer 🔥<br>• Looking for job opportunities 🚀<br>• Guitarist in free time 🎸<br>• Always learning 🎓<br>• hello world</p>
+<p align="left">• Full Stack Developer 🔥<br>• Looking for job opportunities 🚀<br>• Guitarist in free time 🎸<br>• Always learning 🎓<br></p>
 
 ###
 
@@ -73,12 +73,13 @@
   <a href="https://www.linkedin.com/in/enzo-brincalepe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="mailto: enzo.brincalepe@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</a>
   <a href="https://www.instagram.com/enzo.brincalepe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=footer"/>
@@ -92,13 +93,16 @@
 Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=150&text=Ebrinca64&fontColor=c77dff&animation=fadeIn&section=header)
 animation=fadeIn
+
 <div align="center">
 <img width="902" alt="ReadMeMe" src="https://github.com/E-brinca64/E-brinca64/assets/98828875/a0b157bf-e112-465c-afe4-f79c48f2c3d2">
 </div>
 <div align="center">
   <img src="https://github.com/E-brinca64/E-brinca64/assets/98828875/470ac673-ec2e-45ce-803d-88406567d4db" width="250px">
 </div>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
