@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">• Full Stack Developer 🔥<br>• Looking for job opportunities 🚀<br>• Guitarist in free time 🎸<br>• Always learning 🎓<br></p>
+<p align="left">• Full Stack Developer 🔥<br>• Looking for job opportunities 🚀<br>• Guitarist in free time 🎸<br>• Always learning 🎓<br>• Currently learning french 🇫🇷<br></p>
 
 ###
 
@@ -48,16 +48,6 @@
 ###
 
 <br clear="both">
-
-<h2 align="left">🔥 My stats</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=E-brinca64&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ###
 
